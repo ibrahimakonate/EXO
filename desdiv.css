@@ -1,0 +1,97 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.first{
+     height: 30%;
+    width: 100%; 
+    display: flex;
+    justify-content: end; 
+    margin-top: 1%;
+}
+.div1{
+    background-color: brown;
+    width: 89%;
+    height:150px;
+}
+.second{
+display: flex;
+justify-content: space-between;
+width:100%;
+}
+.div2{
+    width: 11%;
+    height: 450px;
+    background-color:brown ;
+    margin-top: 1px;
+}
+.div3{
+    background-color: brown;
+    width: 70%;
+    height: 150px;
+    margin-left: 25%;
+    position: absolute;
+    top:75%;
+}
+.lescarrés{
+    display: flex;
+    flex-direction: column;
+    padding: 1% 1% 1% 1%;
+}
+.carré1{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 33%;
+    left:27%;
+}
+.carré2{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 54%;
+    left:27%;
+}
+.comp{
+    display: flex;
+    flex-direction: column;
+}
+.troisbandes{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 10px;
+}
+.bandever1{
+    background-color: brown;
+    width: 30px;
+    height: 150px;
+    position: absolute;
+    top: 33%;
+    left: 65%;
+}
+.bandever2{
+    background-color:brown;
+    width: 30px;
+    height: 150px;
+    position: absolute;
+    top: 33%;
+    left: 75%;
+}
+.bandever3{
+    background-color: brown;
+    width: 30px;
+    height: 150px;
+    position: absolute;
+    top: 33%;
+    left: 85%;
+}
+.unebande{
+    width: 450px;
+    height: 40px;
+    background-color:brown ;
+    position: absolute;
+    top: 64%;
+    left: 62%;
+}
